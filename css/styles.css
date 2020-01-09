@@ -1,0 +1,141 @@
+.top-container {
+  background-color: #e4f9ff;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+  height: 900px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Sniglet', cursive;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+span {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.middle-container {
+  margin-bottom: 10px;
+}
+
+.bottom-container {
+  background-color: #11999e;
+  padding: 50px 0 25px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 650px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.p1 {
+  margin: 0 auto;
+  font-size: 2.5rem;
+}
+
+.computer {
+  float: left;
+  padding-right: 30px;
+}
+
+.piston {
+  float: right;
+  padding-left: 30px;
+}
+
+.mountain {
+  margin-top: 168px;
+}
+
+.wife {
+  margin-top: 50px;
+}
+
+.myButton {
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background: linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+  background-color: #11999e;
+  border-radius: 6px;
+  border: 1px solid #057fd0;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px -1px 0px #5b6178;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+  background-color: #019ad2;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  width: 5%;
+  border-color: #019ad2;
+}
+
+.twitter1 {
+  margin-left: 25px;
+  margin-right: 25px;
+  color: white;
+  position:
+}
+
+.twitter {
+  color: white;
+  position: relative;
+  margin: 150px auto 0 auto;
+}
+
+.Shane {
+  position: relative;
+  margin: 245px auto 0 auto;
+}
